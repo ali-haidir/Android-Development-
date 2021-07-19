@@ -1,1 +1,3 @@
-# Android-Development ith the help of two basis projects such as currency converter.
+# Android-Development 
+
+learning Android Development with the help of two basis projects such as currency converter.
